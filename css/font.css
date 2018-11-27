@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'HappyZcool';
+    src: url('happyzcool.ttf') format('truetype'),
+           url('fontname.svg#fontname') format('svg');
+   }  
+   /*其中fontName替换为你的字体名称*/
+   h1{font-family: HappyZcool}
+   
